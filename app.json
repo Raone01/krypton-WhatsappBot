@@ -28,7 +28,7 @@
       },
       "WRITE_SONIC":{
          "description":"A key used for Write Sonic",
-         "required":true
+         "required":false
       },
       "BG_API_KEY":{
          "description":"A key used for www.remove.bg",
